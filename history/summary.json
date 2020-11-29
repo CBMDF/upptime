@@ -1,58 +1,58 @@
 [
   {
     "name": "Portal CBMDF",
-    "url": "https://www.cbm.df.gov.br/",
+    "url": "https://www.cbm.df.gov.br",
     "slug": "portal-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 6945
+    "time": 6006
   },
   {
     "name": "Sistemas CBMDF",
-    "url": "https://sistemas.cbm.df.gov.br/",
+    "url": "https://sistemas.cbm.df.gov.br",
     "slug": "sistemas-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3252
+    "time": 4096
   },
   {
     "name": "Web Mail",
-    "url": "https://webmail.cbm.df.gov.br/",
+    "url": "https://webmail.cbm.df.gov.br",
     "slug": "web-mail",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3829
+    "time": 4127
   },
   {
     "name": "Escalador",
-    "url": "https://escalador.cbm.df.gov.br/",
+    "url": "https://escalador.cbm.df.gov.br",
     "slug": "escalador",
     "status": "up",
-    "uptime": "0.51%",
-    "time": 359
+    "uptime": "7.97%",
+    "time": 701
   },
   {
     "name": "SEIOP",
-    "url": "https://seiop.cbm.df.gov.br/",
+    "url": "https://seiop.cbm.df.gov.br",
     "slug": "seiop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2105
+    "time": 1932
   },
   {
     "name": "COVID-19",
-    "url": "https://covid.cbm.df.gov.br/",
+    "url": "https://covid.cbm.df.gov.br",
     "slug": "covid-19",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1201
+    "time": 2600
   },
   {
     "name": "Teleconferência",
-    "url": "https://teleconferencia.cbm.df.gov.br/",
+    "url": "https://teleconferencia.cbm.df.gov.br",
     "slug": "teleconferencia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1227
+    "time": 1342
   }
 ]
