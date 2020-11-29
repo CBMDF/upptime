@@ -77,7 +77,6 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://www.cbm.df.gov.br/las-E4I9_256.png
   name: CBMDF Status Page
   introTitle: "**Upptime** é uma aplicação de código-aberto para monitoramento e informação de status serviços."
