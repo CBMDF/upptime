@@ -20,6 +20,53 @@ sites:
     url: https://covid.cbm.df.gov.br/
   - name: Teleconferência
     url: https://teleconferencia.cbm.df.gov.br/
+i18n:    
+  activeIncidents: Incidentes ativos
+  allSystemsOperational: Todos os sistemas estão em operação
+  incidentReport: "Relatório do Incidente #$NUMBER →"
+  activeIncidentSummary: Aberto em $DATE com $POSTS publicação
+  incidentTitle: Detalhes do Incidente $NUMBER
+  incidentDetails: Detalhes do Incidente
+  incidentFixed: Fixado
+  incidentOngoing: Em andamento
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentSubscribe: Inscreva-se para atualizações
+  incidentViewOnGitHub: Visualizar no GitHub
+  incidentCommentSummary: Publicado em $DATE por $AUTHOR
+  incidentBack: ← Voltar para todos os incidentes
+  pastIncidents: Incidentes Anteriores
+  pastIncidentsResolved: Solucionado em $MINUTES minutos com $POSTS publicações
+  liveStatus: Live Status
+  overallUptime: "Disponibilidade geral: $UPTIME"
+  overallUptimeTitle: Disponibilidade Geral
+  averageResponseTime: "Tempo médio de resposta: $TIMEms"
+  averageResponseTimeTitle: Média de Resposta
+  sevelDayResponseTime: Tempo de Resposta (últimos 07 dias)
+  responseTimeMs: Tempo de resposta (ms)
+  up: Ativo
+  down: Em queta
+  degraded: Problemas de desempenho
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Taxa limite excedida
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Go to the homepage
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -28,7 +75,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CBMDF Status Page
-  introTitle: "**Upptime** é uma aplicação de código-aberto para monitoramento e informação de status serviços.
+  introTitle: **Upptime** é uma aplicação de código-aberto para monitoramento e informação de status serviços.
   introMessage: Esta instalação está sendo utilizada para monitorar e informar sobre o status de serviços do Corpo de Bombeiros Militar do Distrito Federal (CBMDF).
   navbar:
     - title: Página Inicial
