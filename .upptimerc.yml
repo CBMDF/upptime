@@ -20,15 +20,7 @@ sites:
     url: https://covid.cbm.df.gov.br
   - name: Teleconferencia
     url: https://teleconferencia.cbm.df.gov.br
-  - name: SEI GDF
-    url: https://sei.df.gov.br
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 303
-      - 307
-      - 308
-    __dangerous__insecure: true    
+
     
 i18n:    
   activeIncidents: Incidentes ativos
