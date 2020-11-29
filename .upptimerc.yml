@@ -75,7 +75,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CBMDF Status Page
-  introTitle: **Upptime** é uma aplicação de código-aberto para monitoramento e informação de status serviços.
+  introTitle: "**Upptime** é uma aplicação de código-aberto para monitoramento e informação de status serviços."
   introMessage: Esta instalação está sendo utilizada para monitorar e informar sobre o status de serviços do Corpo de Bombeiros Militar do Distrito Federal (CBMDF).
   navbar:
     - title: Página Inicial
