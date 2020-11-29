@@ -1,25 +1,25 @@
 # Change these first
 owner: CBMDF # Your GitHub username
 repo: upptime # Your Github repository name
+user-agent: cbmdf
 
 # Add your sites here
 sites:
-  - name: Poprtal CBMDF
-    url: https://www.cbm.df.gov.br
+  - name: Portal CBMDF
+    url: https://www.cbm.df.gov.br/
   - name: Sistemas CBMDF
-    url: https://sistemas.cbm.df.gov.br
+    url: https://sistemas.cbm.df.gov.br/
   - name: Web Mail
-    url: https://webmail.cbm.df.gov.br
-  - name: SEI! GDF
-    url: https://sei.df.gov.br
+    url: https://webmail.cbm.df.gov.br/
   - name: Escalador
-    url: https://escalador.cbm.df.gov.br
+    url: https://escalador.cbm.df.gov.br/
+    __dangerous__insecure: true
   - name: SEIOP
-    url: https://seiop.cbm.df.gov.br
+    url: https://seiop.cbm.df.gov.br/
   - name: COVID-19
     url: https://covid.cbm.df.gov.br/
   - name: Teleconferência
-    url: https://teleconferencia.cbm.df.gov.br
+    url: https://teleconferencia.cbm.df.gov.br/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -27,13 +27,13 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  name: CBMDF Status Page
+  introTitle: "**Upptime** é uma aplicação de código-aberto para monitoramento e informação de status serviços.
+  introMessage: Esta instalação está sendo utilizada para monitorar e informar sobre o status de serviços do Corpo de Bombeiros Militar do Distrito Federal (CBMDF).
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
+    - title: Página Inicial
+      href: /upptime
+    - title: Repositório
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
