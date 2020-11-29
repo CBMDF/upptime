@@ -1,15 +1,15 @@
 [
   {
-    "name": "Poprtal CBMDF",
-    "url": "https://www.cbm.df.gov.br",
-    "slug": "poprtal-cbmdf",
+    "name": "Portal CBMDF",
+    "url": "https://www.cbm.df.gov.br/",
+    "slug": "portal-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 5059
+    "time": 6945
   },
   {
     "name": "Sistemas CBMDF",
-    "url": "https://sistemas.cbm.df.gov.br",
+    "url": "https://sistemas.cbm.df.gov.br/",
     "slug": "sistemas-cbmdf",
     "status": "up",
     "uptime": "100.00%",
@@ -17,31 +17,23 @@
   },
   {
     "name": "Web Mail",
-    "url": "https://webmail.cbm.df.gov.br",
+    "url": "https://webmail.cbm.df.gov.br/",
     "slug": "web-mail",
     "status": "up",
     "uptime": "100.00%",
     "time": 3829
   },
   {
-    "name": "SEI! GDF",
-    "url": "https://sei.df.gov.br",
-    "slug": "sei-gdf",
-    "status": "down",
-    "uptime": "59.12%",
-    "time": 0
-  },
-  {
     "name": "Escalador",
-    "url": "https://escalador.cbm.df.gov.br",
+    "url": "https://escalador.cbm.df.gov.br/",
     "slug": "escalador",
-    "status": "down",
-    "uptime": "7.81%",
-    "time": 0
+    "status": "up",
+    "uptime": "0.51%",
+    "time": 359
   },
   {
     "name": "SEIOP",
-    "url": "https://seiop.cbm.df.gov.br",
+    "url": "https://seiop.cbm.df.gov.br/",
     "slug": "seiop",
     "status": "up",
     "uptime": "100.00%",
@@ -57,7 +49,7 @@
   },
   {
     "name": "Teleconferência",
-    "url": "https://teleconferencia.cbm.df.gov.br",
+    "url": "https://teleconferencia.cbm.df.gov.br/",
     "slug": "teleconferencia",
     "status": "up",
     "uptime": "100.00%",
