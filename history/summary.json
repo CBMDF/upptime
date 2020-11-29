@@ -5,7 +5,7 @@
     "slug": "portal-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 6006
+    "time": 5437
   },
   {
     "name": "Sistemas CBMDF",
@@ -13,7 +13,7 @@
     "slug": "sistemas-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4096
+    "time": 3391
   },
   {
     "name": "Web Mail",
@@ -21,15 +21,15 @@
     "slug": "web-mail",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4127
+    "time": 3109
   },
   {
     "name": "Escalador",
     "url": "https://escalador.cbm.df.gov.br",
     "slug": "escalador",
     "status": "up",
-    "uptime": "7.97%",
-    "time": 701
+    "uptime": "27.28%",
+    "time": 949
   },
   {
     "name": "SEIOP",
@@ -37,7 +37,7 @@
     "slug": "seiop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1932
+    "time": 1755
   },
   {
     "name": "COVID-19",
@@ -45,14 +45,22 @@
     "slug": "covid-19",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2600
+    "time": 2036
   },
   {
-    "name": "Teleconferência",
+    "name": "Teleconferencia",
     "url": "https://teleconferencia.cbm.df.gov.br",
     "slug": "teleconferencia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1342
+    "time": 1605
+  },
+  {
+    "name": "SEI GDF",
+    "url": "https://sei.df.gov.br",
+    "slug": "sei-gdf",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 0
   }
 ]
