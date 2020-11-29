@@ -1,25 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: CBMDF # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Poprtal CBMDF
+    url: https://www.cbm.df.gov.br
+  - name: Sistemas CBMDF
+    url: https://sistemas.cbm.df.gov.br
+  - name: Web Mail
+    url: https://webmail.cbm.df.gov.br
+  - name: SEI! GDF
+    url: https://sei.df.gov.br
+  - name: Escalador
+    url: https://escalador.cbm.df.gov.br
+  - name: SEIOP
+    url: https://seiop.cbm.df.gov.br
+  - name: COVID-19
+    url: https://covid.cbm.df.gov.br/
+  - name: Teleconferência
+    url: https://teleconferencia.cbm.df.gov.br
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
