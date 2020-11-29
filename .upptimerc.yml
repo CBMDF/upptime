@@ -18,13 +18,17 @@ sites:
     url: https://seiop.cbm.df.gov.br
   - name: COVID-19
     url: https://covid.cbm.df.gov.br
-  - name: Teleconferência
+  - name: Teleconferencia
     url: https://teleconferencia.cbm.df.gov.br
+  - name: SEI GDF
+    url: https://sei.df.gov.br
+    __dangerous__insecure: true    
+    
 i18n:    
   activeIncidents: Incidentes ativos
   allSystemsOperational: Todos os sistemas estão em operação
   incidentReport: "Relatório do Incidente #$NUMBER →"
-  activeIncidentSummary: Aberto em $DATE com $POSTS publicação
+  activeIncidentSummary: Aberto em $DATE com $POSTS atualizações
   incidentTitle: Detalhes do Incidente $NUMBER
   incidentDetails: Detalhes do Incidente
   incidentFixed: Fixado
@@ -36,7 +40,7 @@ i18n:
   incidentCommentSummary: Publicado em $DATE por $AUTHOR
   incidentBack: ← Voltar para todos os incidentes
   pastIncidents: Incidentes Anteriores
-  pastIncidentsResolved: Solucionado em $MINUTES minutos com $POSTS publicações
+  pastIncidentsResolved: Solucionado em $MINUTES minutos com $POSTS atualizações
   liveStatus: Live Status
   overallUptime: "Disponibilidade geral: $UPTIME"
   overallUptimeTitle: Disponibilidade Geral
@@ -45,7 +49,7 @@ i18n:
   sevelDayResponseTime: Tempo de Resposta (últimos 07 dias)
   responseTimeMs: Tempo de resposta (ms)
   up: Ativo
-  down: Em queta
+  down: Indisponível
   degraded: Problemas de desempenho
   ms: ms
   loading: Carregando
@@ -73,7 +77,8 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.cbm.df.gov.br/las-E4I9_256.png
   name: CBMDF Status Page
   introTitle: "**Upptime** é uma aplicação de código-aberto para monitoramento e informação de status serviços."
   introMessage: "Esta instalação está sendo utilizada para monitorar e informar sobre o status de serviços do Corpo de Bombeiros Militar do Distrito Federal (CBMDF)."
