@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Poprtal CBMDF",
+    "url": "https://www.cbm.df.gov.br",
+    "slug": "poprtal-cbmdf",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 5059
+  },
+  {
+    "name": "Sistemas CBMDF",
+    "url": "https://sistemas.cbm.df.gov.br",
+    "slug": "sistemas-cbmdf",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 3252
+  },
+  {
+    "name": "Web Mail",
+    "url": "https://webmail.cbm.df.gov.br",
+    "slug": "web-mail",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 3829
+  },
+  {
+    "name": "SEI! GDF",
+    "url": "https://sei.df.gov.br",
+    "slug": "sei-gdf",
+    "status": "down",
+    "uptime": "70.47%",
+    "time": 0
+  },
+  {
+    "name": "Escalador",
+    "url": "https://escalador.cbm.df.gov.br",
+    "slug": "escalador",
+    "status": "down",
+    "uptime": "17.44%",
+    "time": 0
+  },
+  {
+    "name": "SEIOP",
+    "url": "https://seiop.cbm.df.gov.br",
+    "slug": "seiop",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2105
+  },
+  {
+    "name": "COVID-19",
+    "url": "https://covid.cbm.df.gov.br/",
+    "slug": "covid-19",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1201
+  },
+  {
+    "name": "Teleconferência",
+    "url": "https://teleconferencia.cbm.df.gov.br",
+    "slug": "teleconferencia",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1227
+  }
+]
