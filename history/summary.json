@@ -5,7 +5,7 @@
     "slug": "portal-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4897
+    "time": 4945
   },
   {
     "name": "Sistemas CBMDF",
@@ -13,7 +13,7 @@
     "slug": "sistemas-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3047
+    "time": 2727
   },
   {
     "name": "Web Mail",
@@ -21,15 +21,15 @@
     "slug": "web-mail",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3785
+    "time": 3588
   },
   {
     "name": "Escalador",
     "url": "https://escalador.cbm.df.gov.br",
     "slug": "escalador",
     "status": "up",
-    "uptime": "53.29%",
-    "time": 927
+    "uptime": "89.91%",
+    "time": 1126
   },
   {
     "name": "SEIOP",
@@ -37,7 +37,7 @@
     "slug": "seiop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1702
+    "time": 1756
   },
   {
     "name": "COVID-19",
@@ -45,7 +45,7 @@
     "slug": "covid-19",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1600
+    "time": 1553
   },
   {
     "name": "Teleconferencia",
@@ -53,6 +53,6 @@
     "slug": "teleconferencia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1547
+    "time": 1576
   }
 ]
