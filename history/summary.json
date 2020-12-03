@@ -5,7 +5,15 @@
     "slug": "portal-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4969
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5236,
+    "timeDay": 7367,
+    "timeWeek": 5236,
+    "timeMonth": 5236,
+    "timeYear": 5236
   },
   {
     "name": "Sistemas CBMDF",
@@ -13,7 +21,15 @@
     "slug": "sistemas-cbmdf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2609
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2532,
+    "timeDay": 1917,
+    "timeWeek": 2532,
+    "timeMonth": 2532,
+    "timeYear": 2532
   },
   {
     "name": "Web Mail",
@@ -21,15 +37,31 @@
     "slug": "web-mail",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3102
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2890,
+    "timeDay": 1195,
+    "timeWeek": 2890,
+    "timeMonth": 2890,
+    "timeYear": 2890
   },
   {
     "name": "Escalador",
     "url": "https://escalador.cbm.df.gov.br",
     "slug": "escalador",
     "status": "up",
-    "uptime": "98.97%",
-    "time": 1519
+    "uptime": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 1664,
+    "timeDay": 1304,
+    "timeWeek": 1664,
+    "timeMonth": 1664,
+    "timeYear": 1664
   },
   {
     "name": "SEIOP",
@@ -37,7 +69,15 @@
     "slug": "seiop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1636
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1616,
+    "timeDay": 1452,
+    "timeWeek": 1616,
+    "timeMonth": 1616,
+    "timeYear": 1616
   },
   {
     "name": "COVID-19",
@@ -45,7 +85,15 @@
     "slug": "covid-19",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1473
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1505,
+    "timeDay": 1762,
+    "timeWeek": 1505,
+    "timeMonth": 1505,
+    "timeYear": 1505
   },
   {
     "name": "Teleconferencia",
@@ -53,6 +101,14 @@
     "slug": "teleconferencia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1492
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1462,
+    "timeDay": 1221,
+    "timeWeek": 1462,
+    "timeMonth": 1462,
+    "timeYear": 1462
   }
 ]
