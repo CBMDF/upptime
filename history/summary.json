@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5369,
-    "timeDay": 6569,
-    "timeWeek": 5369,
-    "timeMonth": 5369,
-    "timeYear": 5369
+    "time": 5311,
+    "timeDay": 5649,
+    "timeWeek": 5311,
+    "timeMonth": 5311,
+    "timeYear": 5311
   },
   {
     "name": "Sistemas CBMDF",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2736,
-    "timeDay": 4569,
-    "timeWeek": 2736,
-    "timeMonth": 2736,
-    "timeYear": 2736
+    "time": 2597,
+    "timeDay": 2891,
+    "timeWeek": 2597,
+    "timeMonth": 2597,
+    "timeYear": 2597
   },
   {
     "name": "Web Mail",
@@ -41,27 +41,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2740,
-    "timeDay": 1386,
-    "timeWeek": 2740,
-    "timeMonth": 2740,
-    "timeYear": 2740
+    "time": 2696,
+    "timeDay": 1820,
+    "timeWeek": 2696,
+    "timeMonth": 2696,
+    "timeYear": 2696
   },
   {
     "name": "Escalador",
     "url": "https://escalador.cbm.df.gov.br",
     "slug": "escalador",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
-    "time": 1613,
-    "timeDay": 1148,
-    "timeWeek": 1613,
-    "timeMonth": 1613,
-    "timeYear": 1613
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 1632,
+    "timeDay": 1488,
+    "timeWeek": 1632,
+    "timeMonth": 1632,
+    "timeYear": 1632
   },
   {
     "name": "SEIOP",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 1900,
-    "timeWeek": 1645,
-    "timeMonth": 1645,
-    "timeYear": 1645
+    "time": 1657,
+    "timeDay": 1840,
+    "timeWeek": 1657,
+    "timeMonth": 1657,
+    "timeYear": 1657
   },
   {
     "name": "COVID-19",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1470,
-    "timeDay": 1154,
-    "timeWeek": 1470,
-    "timeMonth": 1470,
-    "timeYear": 1470
+    "time": 1424,
+    "timeDay": 1061,
+    "timeWeek": 1424,
+    "timeMonth": 1424,
+    "timeYear": 1424
   },
   {
     "name": "Teleconferencia",
@@ -105,10 +105,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1462,
-    "timeDay": 1465,
-    "timeWeek": 1462,
-    "timeMonth": 1462,
-    "timeYear": 1462
+    "time": 1442,
+    "timeDay": 1352,
+    "timeWeek": 1442,
+    "timeMonth": 1442,
+    "timeYear": 1442
+  },
+  {
+    "name": "Inova",
+    "url": "https://singular.cbm.df.gov.br/inova/",
+    "slug": "inova",
+    "status": "down",
+    "uptime": "35.46%",
+    "uptimeDay": "35.46%",
+    "uptimeWeek": "35.46%",
+    "uptimeMonth": "35.46%",
+    "uptimeYear": "35.46%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
