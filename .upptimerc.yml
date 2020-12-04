@@ -20,6 +20,8 @@ sites:
     url: https://covid.cbm.df.gov.br
   - name: Teleconferencia
     url: https://teleconferencia.cbm.df.gov.br
+  - name: Inova
+    url: https://singular.cbm.df.gov.br/inova/
 
     
 i18n:    
