@@ -4,18 +4,19 @@
     "url": "https://www.cbm.df.gov.br",
     "icon": "https://favicons.githubusercontent.com/www.cbm.df.gov.br",
     "slug": "portal-cbmdf",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 5561,
     "timeDay": 4619,
     "timeWeek": 5773,
     "timeMonth": 5561,
     "timeYear": 5561,
     "dailyMinutesDown": {
+      "2020-12-11": 2,
       "2020-12-07": 14
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://sistemas.cbm.df.gov.br",
     "icon": "https://favicons.githubusercontent.com/sistemas.cbm.df.gov.br",
     "slug": "sistemas-cbmdf",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 2884,
     "timeDay": 7541,
     "timeWeek": 3049,
     "timeMonth": 2884,
     "timeYear": 2884,
     "dailyMinutesDown": {
+      "2020-12-11": 2,
       "2020-12-07": 13
     }
   },
@@ -44,18 +46,19 @@
     "url": "https://webmail.cbm.df.gov.br",
     "icon": "https://favicons.githubusercontent.com/webmail.cbm.df.gov.br",
     "slug": "web-mail",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 3251,
     "timeDay": 4039,
     "timeWeek": 3715,
     "timeMonth": 3251,
     "timeYear": 3251,
     "dailyMinutesDown": {
+      "2020-12-11": 1,
       "2020-12-09": 19,
       "2020-12-07": 13
     }
@@ -65,10 +68,10 @@
     "url": "https://escalador.cbm.df.gov.br",
     "icon": "https://favicons.githubusercontent.com/escalador.cbm.df.gov.br",
     "slug": "escalador",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.46%",
     "time": 1734,
@@ -77,6 +80,7 @@
     "timeMonth": 1734,
     "timeYear": 1734,
     "dailyMinutesDown": {
+      "2020-12-11": 1,
       "2020-12-09": 52,
       "2020-12-08": 2,
       "2020-11-29": 33
@@ -87,10 +91,10 @@
     "url": "https://seiop.cbm.df.gov.br",
     "icon": "https://favicons.githubusercontent.com/seiop.cbm.df.gov.br",
     "slug": "seiop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1553,
@@ -98,17 +102,19 @@
     "timeWeek": 1439,
     "timeMonth": 1553,
     "timeYear": 1553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-11": 1
+    }
   },
   {
     "name": "COVID-19",
     "url": "https://covid.cbm.df.gov.br",
     "icon": "https://favicons.githubusercontent.com/covid.cbm.df.gov.br",
     "slug": "covid-19",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1298,
@@ -116,7 +122,9 @@
     "timeWeek": 1084,
     "timeMonth": 1298,
     "timeYear": 1298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-11": 1
+    }
   },
   {
     "name": "Teleconferencia",
