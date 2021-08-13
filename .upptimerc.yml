@@ -10,7 +10,7 @@ sites:
   - name: Sistemas CBMDF
     url: https://sistemas.cbm.df.gov.br
   - name: Web Mail
-    url: https://webmail.cbm.df.gov.br
+    url: https://cas.gdfnet.df.gov.br/owa
   - name: Escalador
     url: https://escalador.cbm.df.gov.br
     __dangerous__insecure: true
