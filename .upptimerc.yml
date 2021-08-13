@@ -13,7 +13,6 @@ sites:
     url: https://cas.gdfnet.df.gov.br/owa
   - name: Escalador
     url: https://escalador.cbm.df.gov.br
-    __dangerous__insecure: true
   - name: SEIOP
     url: https://seiop.cbm.df.gov.br
   - name: COVID-19
@@ -21,8 +20,12 @@ sites:
   - name: Teleconferencia
     url: https://teleconferencia.cbm.df.gov.br
   - name: Inova
-    url: https://singular.cbm.df.gov.br/inova/?0
-    __dangerous__insecure: true
+    url: https://singular.cbm.df.gov.br
+  - name: Portal Saúde
+    url: https://saude.cbm.df.gov.br    
+  - name: Consulta Conveniados
+    url: https://sistemas4.cbm.df.gov.br/pesquisahospitais/       
+   
 
     
 i18n:    
