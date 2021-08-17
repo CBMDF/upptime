@@ -30,11 +30,12 @@ sites:
     __dangerous__insecure: true
     __dangerous__body_down: "502 Bad Gateway"
   - name: SGO API Endereçamento
-    url: ${{ secrets.SGO_ENDERECAMENTO }}
+    url: $SGO_ENDERECAMENTO
+    method: GET
+    headers:
+      - "X-Api-Key: $SGO_API_KEY"
     __dangerous__insecure: true
     __dangerous__body_down: "API_KEY_MISSING"
-    headers:
-      - "X-Api-Key: ${{ secrets.SGO_API_KEY }}"
     
     
     
