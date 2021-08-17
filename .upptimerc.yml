@@ -29,6 +29,8 @@ sites:
   - name: Consulta Conveniados
     url: https://sistemas4.cbm.df.gov.br/pesquisahospitais/
     __dangerous__insecure: true
+    __dangerous__body_down: "502 Bad Gateway"
+    
    
     
 i18n:    
