@@ -27,12 +27,14 @@ sites:
     url: https://saude.cbm.df.gov.br
   - name: Consulta Conveniados
     url: https://sistemas4.cbm.df.gov.br/pesquisahospitais/
+    __dangerous__insecure: true
     __dangerous__body_down: "502 Bad Gateway"
   - name: SGO API Endereçamento
     url: $SGO_ENDERECAMENTO
+    __dangerous__insecure: true
     headers:
       - "X-Api-Key: $SGO_API_KEY"
-    __dangerous__insecure: true
+    
     
    
 i18n:    
