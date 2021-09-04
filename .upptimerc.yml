@@ -73,9 +73,9 @@ i18n:
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Taxa limite excedida
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededWhatDoesErrorMean: O que significa este erro?
   rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorHowCanFix: Como posso corrigir isto?
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
   rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
   rateLimitExceededHasSet: You have a personal access token set.
@@ -83,10 +83,20 @@ i18n:
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Copy and paste your token
   rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
+  errorTitle: Ocorreu um erro
+  errorIntro: Ocorreu um erro ao tentar obter os últimos detalhes de status.
+  errorText: Você pode tentar novamente em instantes.
+  errorHome: Ir para página inicial
+  pastScheduledMaintenance: Manutenções Agendadas Passadas
+  scheduledMaintenance: Manutenção Agendada
+  scheduledMaintenanceSummaryStarted: Iniciada em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia em $DATE por $DURATION minutos
+  startedAt: Iniciado em
+  startsAt: Inicia em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Concluído
+  incidentScheduled: Agendado
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
