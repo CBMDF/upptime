@@ -27,6 +27,8 @@ sites:
     __dangerous__insecure: true
   - name: Portal Saúde
     url: https://saude.cbm.df.gov.br
+  - name: Sistema POMED
+    url: https://pomed.cbm.df.gov.br/sistemas/diretoriadesaude/a/externo/index.php
   - name: Consulta Conveniados
     url: https://sistemas4.cbm.df.gov.br/pesquisahospitais/
     __dangerous__insecure: true
