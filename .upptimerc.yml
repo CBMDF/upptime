@@ -23,7 +23,9 @@ sites:
   - name: COVID-19
     url: https://sistemas.cbm.df.gov.br/covid
   - name: Inova
-    url: https://singular.cbm.df.gov.br/inova/interno/login?0
+    url: https://inova.cbm.df.gov.br/
+  - name: Singular
+    url: https://singular.cbm.df.gov.br/
     __dangerous__insecure: true
   - name: Portal Saúde
     url: https://saude.cbm.df.gov.br
