@@ -1,7 +1,7 @@
 url: https://sistemas.cbm.df.gov.br/covid
-status: up
-code: 200
-responseTime: 1183
-lastUpdated: 2021-11-05T23:08:17.449Z
+status: down
+code: 502
+responseTime: 1006
+lastUpdated: 2021-11-06T02:16:14.422Z
 startTime: Sun Nov 29 2020 18:51:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
