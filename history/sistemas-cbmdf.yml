@@ -1,7 +1,7 @@
 url: https://sistemas.cbm.df.gov.br
-status: up
-code: 200
-responseTime: 6765
-lastUpdated: 2021-11-05T23:07:55.327Z
+status: down
+code: 502
+responseTime: 9737
+lastUpdated: 2021-11-06T00:39:44.219Z
 startTime: Sun Nov 29 2020 18:51:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
