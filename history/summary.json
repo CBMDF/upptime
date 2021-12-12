@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.cbm.df.gov.br",
     "slug": "portal-cbmdf",
     "status": "up",
-    "uptime": "56.53%",
+    "uptime": "56.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.15%",
+    "uptimeYear": "55.17%",
     "time": 5206,
     "timeDay": 7078,
     "timeWeek": 6232,
     "timeMonth": 6291,
-    "timeYear": 5183,
+    "timeYear": 5181,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -184,8 +184,7 @@
       "2021-01-31": 17,
       "2021-01-26": 158,
       "2021-01-24": 141,
-      "2020-12-22": 72,
-      "2020-12-12": 35
+      "2020-12-22": 72
     }
   },
   {
@@ -194,7 +193,7 @@
     "icon": "https://favicons.githubusercontent.com/sistemas.cbm.df.gov.br",
     "slug": "sistemas-cbmdf",
     "status": "up",
-    "uptime": "56.51%",
+    "uptime": "56.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -372,8 +371,7 @@
       "2021-03-01": 181,
       "2021-01-31": 16,
       "2021-01-24": 141,
-      "2020-12-22": 72,
-      "2020-12-12": 598
+      "2020-12-22": 72
     }
   },
   {
@@ -400,7 +398,7 @@
     "icon": "https://favicons.githubusercontent.com/cas.gdfnet.df.gov.br",
     "slug": "web-mail",
     "status": "up",
-    "uptime": "56.16%",
+    "uptime": "56.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -592,7 +590,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.80%",
     "time": 2145,
     "timeDay": 9056,
     "timeWeek": 4812,
@@ -603,8 +601,7 @@
       "2021-02-26": 4,
       "2021-01-31": 15,
       "2021-01-24": 140,
-      "2020-12-22": 22,
-      "2020-12-12": 767
+      "2020-12-22": 22
     }
   },
   {
@@ -617,7 +614,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.80%",
     "time": 2587,
     "timeDay": 3384,
     "timeWeek": 5239,
@@ -627,8 +624,7 @@
       "2021-03-04": 115,
       "2021-01-31": 15,
       "2021-01-24": 139,
-      "2020-12-22": 70,
-      "2020-12-12": 767
+      "2020-12-22": 70
     }
   },
   {
@@ -641,7 +637,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.81%",
     "time": 1722,
     "timeDay": 1204,
     "timeWeek": 2687,
@@ -651,8 +647,7 @@
       "2021-03-04": 114,
       "2021-01-31": 14,
       "2021-01-24": 139,
-      "2020-12-22": 21,
-      "2020-12-12": 767
+      "2020-12-22": 21
     }
   },
   {
@@ -703,7 +698,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5295,
-    "timeDay": 8600,
+    "timeDay": 10238,
     "timeWeek": 6624,
     "timeMonth": 6647,
     "timeYear": 5295,
@@ -721,8 +716,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3822,
-    "timeDay": 5132,
-    "timeWeek": 5336,
+    "timeDay": 1414,
+    "timeWeek": 5095,
     "timeMonth": 4690,
     "timeYear": 3822,
     "dailyMinutesDown": {}
@@ -739,8 +734,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2976,
-    "timeDay": 3704,
-    "timeWeek": 4801,
+    "timeDay": 2647,
+    "timeWeek": 4443,
     "timeMonth": 4719,
     "timeYear": 2976,
     "dailyMinutesDown": {}
