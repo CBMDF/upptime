@@ -14,7 +14,7 @@
     "timeDay": 6605,
     "timeWeek": 5666,
     "timeMonth": 6469,
-    "timeYear": 5231,
+    "timeYear": 5226,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -183,8 +183,7 @@
       "2021-03-01": 181,
       "2021-01-31": 17,
       "2021-01-26": 158,
-      "2021-01-24": 141,
-      "2020-12-22": 72
+      "2021-01-24": 141
     }
   },
   {
@@ -193,7 +192,7 @@
     "icon": "https://favicons.githubusercontent.com/sistemas.cbm.df.gov.br",
     "slug": "sistemas-cbmdf",
     "status": "up",
-    "uptime": "57.63%",
+    "uptime": "57.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -202,7 +201,7 @@
     "timeDay": 2771,
     "timeWeek": 6436,
     "timeMonth": 7013,
-    "timeYear": 3646,
+    "timeYear": 3653,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -370,8 +369,7 @@
       "2021-03-03": 280,
       "2021-03-01": 181,
       "2021-01-31": 16,
-      "2021-01-24": 141,
-      "2020-12-22": 72
+      "2021-01-24": 141
     }
   },
   {
@@ -398,7 +396,7 @@
     "icon": "https://favicons.githubusercontent.com/cas.gdfnet.df.gov.br",
     "slug": "web-mail",
     "status": "up",
-    "uptime": "57.29%",
+    "uptime": "57.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -407,7 +405,7 @@
     "timeDay": 3344,
     "timeWeek": 3602,
     "timeMonth": 2872,
-    "timeYear": 2364,
+    "timeYear": 2366,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -576,8 +574,7 @@
       "2021-03-02": 1440,
       "2021-03-01": 270,
       "2021-01-31": 16,
-      "2021-01-24": 140,
-      "2020-12-22": 22
+      "2021-01-24": 140
     }
   },
   {
@@ -595,13 +592,12 @@
     "timeDay": 5109,
     "timeWeek": 5390,
     "timeMonth": 5310,
-    "timeYear": 2273,
+    "timeYear": 2277,
     "dailyMinutesDown": {
       "2021-03-04": 135,
       "2021-02-26": 4,
       "2021-01-31": 15,
-      "2021-01-24": 140,
-      "2020-12-22": 22
+      "2021-01-24": 140
     }
   },
   {
@@ -619,12 +615,11 @@
     "timeDay": 5394,
     "timeWeek": 5176,
     "timeMonth": 5315,
-    "timeYear": 2731,
+    "timeYear": 2735,
     "dailyMinutesDown": {
       "2021-03-04": 115,
       "2021-01-31": 15,
-      "2021-01-24": 139,
-      "2020-12-22": 70
+      "2021-01-24": 139
     }
   },
   {
@@ -642,12 +637,11 @@
     "timeDay": 8105,
     "timeWeek": 5221,
     "timeMonth": 3369,
-    "timeYear": 1865,
+    "timeYear": 1867,
     "dailyMinutesDown": {
       "2021-03-04": 114,
       "2021-01-31": 14,
-      "2021-01-24": 139,
-      "2020-12-22": 21
+      "2021-01-24": 139
     }
   },
   {
@@ -734,7 +728,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3068,
-    "timeDay": 4696,
+    "timeDay": 4410,
     "timeWeek": 4094,
     "timeMonth": 4611,
     "timeYear": 3068,
