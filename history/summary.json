@@ -13,7 +13,7 @@
     "time": 5283,
     "timeDay": 8106,
     "timeWeek": 6885,
-    "timeMonth": 6580,
+    "timeMonth": 6505,
     "timeYear": 5276,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
@@ -200,8 +200,8 @@
     "time": 3640,
     "timeDay": 10203,
     "timeWeek": 6954,
-    "timeMonth": 6939,
-    "timeYear": 3800,
+    "timeMonth": 6950,
+    "timeYear": 3808,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -386,7 +386,7 @@
     "time": 1218,
     "timeDay": 992,
     "timeWeek": 888,
-    "timeMonth": 1066,
+    "timeMonth": 1064,
     "timeYear": 1218,
     "dailyMinutesDown": {}
   },
@@ -396,7 +396,7 @@
     "icon": "https://favicons.githubusercontent.com/cas.gdfnet.df.gov.br",
     "slug": "web-mail",
     "status": "up",
-    "uptime": "58.26%",
+    "uptime": "58.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -404,8 +404,8 @@
     "time": 2429,
     "timeDay": 5832,
     "timeWeek": 3386,
-    "timeMonth": 3161,
-    "timeYear": 2409,
+    "timeMonth": 3111,
+    "timeYear": 2414,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -591,8 +591,8 @@
     "time": 2244,
     "timeDay": 5422,
     "timeWeek": 3184,
-    "timeMonth": 4520,
-    "timeYear": 2338,
+    "timeMonth": 4541,
+    "timeYear": 2342,
     "dailyMinutesDown": {
       "2021-03-04": 135,
       "2021-02-26": 4,
@@ -614,8 +614,8 @@
     "time": 2679,
     "timeDay": 4926,
     "timeWeek": 4143,
-    "timeMonth": 5167,
-    "timeYear": 2790,
+    "timeMonth": 5084,
+    "timeYear": 2793,
     "dailyMinutesDown": {
       "2021-03-04": 115,
       "2021-01-31": 15,
@@ -636,8 +636,8 @@
     "time": 1858,
     "timeDay": 2217,
     "timeWeek": 3625,
-    "timeMonth": 3675,
-    "timeYear": 1927,
+    "timeMonth": 3697,
+    "timeYear": 1930,
     "dailyMinutesDown": {
       "2021-03-04": 114,
       "2021-01-31": 14,
@@ -694,7 +694,7 @@
     "time": 5650,
     "timeDay": 6194,
     "timeWeek": 7989,
-    "timeMonth": 7444,
+    "timeMonth": 7579,
     "timeYear": 5650,
     "dailyMinutesDown": {}
   },
@@ -712,7 +712,7 @@
     "time": 4229,
     "timeDay": 5713,
     "timeWeek": 5232,
-    "timeMonth": 5594,
+    "timeMonth": 5707,
     "timeYear": 4229,
     "dailyMinutesDown": {}
   },
@@ -730,7 +730,7 @@
     "time": 3172,
     "timeDay": 4905,
     "timeWeek": 4621,
-    "timeMonth": 4534,
+    "timeMonth": 4626,
     "timeYear": 3172,
     "dailyMinutesDown": {}
   },
