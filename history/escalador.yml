@@ -1,7 +1,7 @@
 url: https://escalador.cbm.df.gov.br
-status: down
-code: 503
-responseTime: 4699
-lastUpdated: 2022-01-14T11:14:30.777Z
+status: up
+code: 200
+responseTime: 4583
+lastUpdated: 2022-01-14T11:47:25.857Z
 startTime: Sun Nov 29 2020 18:51:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
