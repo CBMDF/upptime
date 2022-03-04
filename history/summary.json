@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.cbm.df.gov.br",
     "slug": "portal-cbmdf",
     "status": "up",
-    "uptime": "64.22%",
+    "uptime": "64.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.28%",
-    "time": 5412,
-    "timeDay": 6498,
-    "timeWeek": 7175,
-    "timeMonth": 6420,
-    "timeYear": 5672,
+    "uptimeYear": "55.36%",
+    "time": 5411,
+    "timeDay": 4922,
+    "timeWeek": 7375,
+    "timeMonth": 6366,
+    "timeYear": 5669,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -177,8 +177,7 @@
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
-      "2021-03-05": 1440,
-      "2021-03-04": 1440
+      "2021-03-05": 1440
     }
   },
   {
@@ -187,16 +186,16 @@
     "icon": "https://favicons.githubusercontent.com/sistemas.cbm.df.gov.br",
     "slug": "sistemas-cbmdf",
     "status": "up",
-    "uptime": "64.20%",
+    "uptime": "64.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.30%",
-    "time": 4012,
-    "timeDay": 8752,
-    "timeWeek": 7832,
-    "timeMonth": 6442,
-    "timeYear": 4729,
+    "uptimeYear": "55.36%",
+    "time": 4017,
+    "timeDay": 6344,
+    "timeWeek": 7588,
+    "timeMonth": 6581,
+    "timeYear": 4733,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -359,8 +358,7 @@
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
-      "2021-03-05": 1440,
-      "2021-03-04": 1440
+      "2021-03-05": 1440
     }
   },
   {
@@ -374,11 +372,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1170,
-    "timeDay": 4828,
-    "timeWeek": 1487,
-    "timeMonth": 1001,
-    "timeYear": 1170,
+    "time": 1167,
+    "timeDay": 671,
+    "timeWeek": 1449,
+    "timeMonth": 997,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   },
   {
@@ -387,16 +385,16 @@
     "icon": "https://favicons.githubusercontent.com/cas.gdfnet.df.gov.br",
     "slug": "web-mail",
     "status": "up",
-    "uptime": "63.92%",
+    "uptime": "64.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.09%",
-    "time": 2535,
-    "timeDay": 4177,
-    "timeWeek": 3490,
-    "timeMonth": 3042,
-    "timeYear": 2721,
+    "uptimeYear": "55.36%",
+    "time": 2543,
+    "timeDay": 5222,
+    "timeWeek": 3790,
+    "timeMonth": 3162,
+    "timeYear": 2730,
     "dailyMinutesDown": {
       "2021-08-13": 1391,
       "2021-08-12": 1440,
@@ -559,8 +557,7 @@
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
-      "2021-03-05": 1440,
-      "2021-03-04": 1440
+      "2021-03-05": 1440
     }
   },
   {
@@ -574,14 +571,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2558,
-    "timeDay": 5729,
-    "timeWeek": 4791,
-    "timeMonth": 4530,
-    "timeYear": 2878,
-    "dailyMinutesDown": {
-      "2021-03-04": 135
-    }
+    "time": 2564,
+    "timeDay": 5570,
+    "timeWeek": 5253,
+    "timeMonth": 4561,
+    "timeYear": 2890,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SEIOP",
@@ -594,14 +589,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2977,
-    "timeDay": 5531,
-    "timeWeek": 5619,
-    "timeMonth": 5051,
-    "timeYear": 3319,
-    "dailyMinutesDown": {
-      "2021-03-04": 115
-    }
+    "time": 2983,
+    "timeDay": 5970,
+    "timeWeek": 5573,
+    "timeMonth": 5026,
+    "timeYear": 3331,
+    "dailyMinutesDown": {}
   },
   {
     "name": "COVID-19",
@@ -609,19 +602,17 @@
     "icon": "https://favicons.githubusercontent.com/sistemas.cbm.df.gov.br",
     "slug": "covid-19",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2098,
-    "timeDay": 3996,
-    "timeWeek": 3782,
-    "timeMonth": 4145,
+    "time": 2095,
+    "timeDay": 680,
+    "timeWeek": 3218,
+    "timeMonth": 3868,
     "timeYear": 2324,
-    "dailyMinutesDown": {
-      "2021-03-04": 114
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inova",
@@ -671,9 +662,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6152,
-    "timeDay": 8596,
-    "timeWeek": 8612,
-    "timeMonth": 7967,
+    "timeDay": 6257,
+    "timeWeek": 8303,
+    "timeMonth": 7981,
     "timeYear": 6152,
     "dailyMinutesDown": {}
   },
@@ -688,11 +679,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4470,
-    "timeDay": 3703,
-    "timeWeek": 4031,
-    "timeMonth": 4554,
-    "timeYear": 4470,
+    "time": 4498,
+    "timeDay": 8702,
+    "timeWeek": 4768,
+    "timeMonth": 4666,
+    "timeYear": 4498,
     "dailyMinutesDown": {}
   },
   {
@@ -706,11 +697,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3654,
-    "timeDay": 4871,
-    "timeWeek": 4703,
-    "timeMonth": 4645,
-    "timeYear": 3654,
+    "time": 3656,
+    "timeDay": 4078,
+    "timeWeek": 4543,
+    "timeMonth": 4769,
+    "timeYear": 3656,
     "dailyMinutesDown": {}
   },
   {
