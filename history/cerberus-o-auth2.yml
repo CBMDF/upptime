@@ -1,7 +1,7 @@
 url: https://sistemas.cbm.df.gov.br/sistemas/cerberusAuth/public/oauth/
-status: down
-code: 500
-responseTime: 408
-lastUpdated: 2022-05-31T20:24:15.858Z
+status: up
+code: 200
+responseTime: 839
+lastUpdated: 2022-05-31T20:40:40.623Z
 startTime: Tue Sep 28 2021 04:04:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
