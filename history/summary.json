@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.cbm.df.gov.br",
     "slug": "portal-cbmdf",
     "status": "up",
-    "uptime": "78.01%",
+    "uptime": "78.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/sistemas.cbm.df.gov.br",
     "slug": "sistemas-cbmdf",
     "status": "up",
-    "uptime": "77.99%",
+    "uptime": "78.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6265,
     "timeDay": 6309,
-    "timeWeek": 7070,
+    "timeWeek": 7501,
     "timeMonth": 6146,
-    "timeYear": 6786,
+    "timeYear": 6787,
     "dailyMinutesDown": {}
   },
   {
@@ -48,9 +48,9 @@
     "uptimeYear": "100.00%",
     "time": 1177,
     "timeDay": 696,
-    "timeWeek": 801,
+    "timeWeek": 769,
     "timeMonth": 778,
-    "timeYear": 1146,
+    "timeYear": 1152,
     "dailyMinutesDown": {}
   },
   {
@@ -59,7 +59,7 @@
     "icon": "https://favicons.githubusercontent.com/cas.gdfnet.df.gov.br",
     "slug": "web-mail",
     "status": "up",
-    "uptime": "77.82%",
+    "uptime": "77.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -122,7 +122,7 @@
     "timeDay": 966,
     "timeWeek": 3624,
     "timeMonth": 4268,
-    "timeYear": 3857,
+    "timeYear": 3853,
     "dailyMinutesDown": {}
   },
   {
@@ -184,7 +184,7 @@
     "url": "https://pomed.cbm.df.gov.br/sistemas/diretoriadesaude/a/externo/index.php",
     "icon": "https://favicons.githubusercontent.com/pomed.cbm.df.gov.br",
     "slug": "sistema-pomed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -212,7 +212,7 @@
     "timeDay": 4709,
     "timeWeek": 4429,
     "timeMonth": 5295,
-    "timeYear": 4821,
+    "timeYear": 4820,
     "dailyMinutesDown": {}
   },
   {
