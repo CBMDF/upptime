@@ -1,7 +1,7 @@
 url: $SGO_ENDERECAMENTO
-status: up
-code: 200
-responseTime: 4349
-lastUpdated: 2023-03-07T19:54:48.649Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-03-07T22:19:27.571Z
 startTime: Tue Aug 17 2021 05:23:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
