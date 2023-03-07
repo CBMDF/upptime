@@ -220,7 +220,7 @@
     "url": "$SGO_ENDERECAMENTO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sgo-api-enderecamento",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
