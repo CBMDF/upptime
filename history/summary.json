@@ -220,17 +220,17 @@
     "url": "$SGO_ENDERECAMENTO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sgo-api-enderecamento",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1682,
-    "timeDay": 4349,
-    "timeWeek": 3115,
-    "timeMonth": 1738,
-    "timeYear": 1682,
+    "time": 1839,
+    "timeDay": 5533,
+    "timeWeek": 3629,
+    "timeMonth": 1916,
+    "timeYear": 1839,
     "dailyMinutesDown": {}
   }
 ]
