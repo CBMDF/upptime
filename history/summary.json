@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.cbm.df.gov.br",
     "slug": "portal-cbmdf",
     "status": "up",
-    "uptime": "80.67%",
+    "uptime": "80.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6246,
-    "timeDay": 3705,
-    "timeWeek": 5900,
+    "timeDay": 0,
+    "timeWeek": 5432,
     "timeMonth": 6310,
-    "timeYear": 6423,
+    "timeYear": 6418,
     "dailyMinutesDown": {}
   },
   {
@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/sistemas.cbm.df.gov.br",
     "slug": "sistemas-cbmdf",
     "status": "up",
-    "uptime": "80.66%",
+    "uptime": "80.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6783,
-    "timeDay": 5374,
-    "timeWeek": 5339,
+    "timeDay": 0,
+    "timeWeek": 5586,
     "timeMonth": 5616,
     "timeYear": 6819,
     "dailyMinutesDown": {}
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1155,
-    "timeDay": 829,
-    "timeWeek": 1517,
+    "timeDay": 0,
+    "timeWeek": 874,
     "timeMonth": 1344,
-    "timeYear": 1097,
+    "timeYear": 1098,
     "dailyMinutesDown": {}
   },
   {
@@ -59,7 +59,7 @@
     "icon": "https://favicons.githubusercontent.com/cas.gdfnet.df.gov.br",
     "slug": "web-mail",
     "status": "down",
-    "uptime": "80.51%",
+    "uptime": "80.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3087,
+    "timeYear": 3085,
     "dailyMinutesDown": {}
   },
   {
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4760,
-    "timeDay": 5709,
-    "timeWeek": 4303,
+    "timeDay": 0,
+    "timeWeek": 4071,
     "timeMonth": 4646,
-    "timeYear": 4818,
+    "timeYear": 4805,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 5490,
-    "timeYear": 5133,
+    "timeYear": 5130,
     "dailyMinutesDown": {}
   },
   {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3779,
-    "timeDay": 1075,
-    "timeWeek": 3002,
+    "timeDay": 0,
+    "timeWeek": 1987,
     "timeMonth": 3009,
-    "timeYear": 3811,
+    "timeYear": 3807,
     "dailyMinutesDown": {}
   },
   {
@@ -173,10 +173,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7575,
-    "timeDay": 7177,
-    "timeWeek": 6325,
+    "timeDay": 0,
+    "timeWeek": 6119,
     "timeMonth": 6842,
-    "timeYear": 7609,
+    "timeYear": 7606,
     "dailyMinutesDown": {}
   },
   {
@@ -191,10 +191,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4917,
-    "timeDay": 4992,
-    "timeWeek": 3752,
+    "timeDay": 0,
+    "timeWeek": 3835,
     "timeMonth": 4283,
-    "timeYear": 4902,
+    "timeYear": 4890,
     "dailyMinutesDown": {}
   },
   {
@@ -209,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4666,
-    "timeDay": 3295,
-    "timeWeek": 3202,
+    "timeDay": 0,
+    "timeWeek": 2514,
     "timeMonth": 5259,
-    "timeYear": 4841,
+    "timeYear": 4825,
     "dailyMinutesDown": {}
   },
   {
@@ -227,8 +227,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1893,
-    "timeDay": 4151,
-    "timeWeek": 1787,
+    "timeDay": 0,
+    "timeWeek": 1837,
     "timeMonth": 2389,
     "timeYear": 1893,
     "dailyMinutesDown": {}
